@@ -1,0 +1,92 @@
+project:
+  random_seed: 20260811
+  data_start_date: "2026-01-01"
+  data_end_date: "2026-07-31"
+  analysis_date: "2026-07-31"
+  attribution_lookback_days: 30
+  trial_length_days: 7
+  realized_revenue_window_days: 90
+
+campaigns:
+  - campaign_id: PS_BRAND
+    campaign_name: Brand Search
+    channel: Paid Search
+    platform: Google Ads
+    default_landing_page: /search
+    daily_impressions: 4200
+    click_through_rate: 0.080
+    average_cpc_usd: 1.35
+    sessions_per_click: 0.84
+    backend_trial_rate: 0.145
+    paid_conversion_rate: 0.48
+    monthly_retention_rate: 0.84
+    mobile_share: 0.58
+  - campaign_id: PS_GENERIC
+    campaign_name: Generic Search
+    channel: Paid Search
+    platform: Google Ads
+    default_landing_page: /people-search
+    daily_impressions: 6200
+    click_through_rate: 0.040
+    average_cpc_usd: 2.45
+    sessions_per_click: 0.82
+    backend_trial_rate: 0.105
+    paid_conversion_rate: 0.39
+    monthly_retention_rate: 0.78
+    mobile_share: 0.70
+  - campaign_id: PS_COMPETITOR
+    campaign_name: Competitor Search
+    channel: Paid Search
+    platform: Microsoft Ads
+    default_landing_page: /compare
+    daily_impressions: 2600
+    click_through_rate: 0.032
+    average_cpc_usd: 2.80
+    sessions_per_click: 0.80
+    backend_trial_rate: 0.088
+    paid_conversion_rate: 0.34
+    monthly_retention_rate: 0.73
+    mobile_share: 0.62
+  - campaign_id: PAID_SOCIAL
+    campaign_name: Prospecting Social
+    channel: Paid Social
+    platform: Meta Ads
+    default_landing_page: /discover
+    daily_impressions: 7500
+    click_through_rate: 0.014
+    average_cpc_usd: 1.70
+    sessions_per_click: 0.76
+    backend_trial_rate: 0.070
+    paid_conversion_rate: 0.29
+    monthly_retention_rate: 0.68
+    mobile_share: 0.82
+
+direct_traffic:
+  daily_sessions: 85
+  backend_trial_rate: 0.070
+  paid_conversion_rate: 0.40
+  monthly_retention_rate: 0.76
+  returning_visitor_share: 0.30
+
+plans:
+  - plan_name: Monthly Basic
+    monthly_price_usd: 24.95
+    selection_weight: 0.72
+  - plan_name: Monthly Plus
+    monthly_price_usd: 34.95
+    selection_weight: 0.28
+
+tracking_anomaly:
+  start_date: "2026-07-08"
+  end_date: "2026-07-10"
+  campaign_id: PS_GENERIC
+  device_category: mobile
+  landing_page: /people-search
+  tracked_session_retention_rate: 0.38
+  click_id_retention_rate: 0.20
+  tracked_trial_event_retention_rate: 0.25
+  expected_backend_demand_change: 0.00
+  intended_signal: >-
+    Ad clicks and backend trial/payment activity remain near baseline while
+    tracked sessions, click IDs, and web trial events fall for one localized
+    campaign-device-page segment.
