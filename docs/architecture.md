@@ -13,13 +13,11 @@ flowchart TD
     M --> T["Tableau CSV extracts"]
 ```
 
-## Why CSV sources for the interview MVP
+## Why CSV sources for the reference implementation
 
-The case study needs multiple source grains, but it does not need a second
-database to prove that point. Direct, reproducible CSV extracts keep the
-pre-interview build within the available 14-18 hours and focus attention on
-Snowflake modeling, attribution, billing eligibility, QA, and communication.
-PostgreSQL source-loading scripts can be added after the interview.
+This case study models multiple source systems and data grains without introducing an additional operational database. Reproducible synthetic CSV extracts provide a transparent and portable source layer while keeping the implementation focused on Snowflake ingestion and modeling, attribution logic, billing eligibility, data-quality validation, and stakeholder communication.
+
+In a production environment, these files would typically be replaced by automated ingestion from operational systems such as PostgreSQL, advertising platforms, web analytics tools, and billing applications. PostgreSQL source-loading scripts could be added as a future extension, but they are not required to demonstrate the source boundaries, transformations, analytical models, or validation workflow represented in this project.
 
 ## Layer responsibilities
 
