@@ -8,7 +8,7 @@ An end-to-end analytics case study demonstrating how marketing, web-session, sub
 
 [View the interactive Attribution and Tracking QA dashboard on Tableau Public](https://public.tableau.com/app/profile/dennis.ho2795/viz/subscription-growth-intelligence/02AttributionQA)
 
-[![Attribution and Tracking QA dashboard](assets/<img width="1439" height="868" alt="attribution_tracking_qa" src="https://github.com/user-attachments/assets/50530314-c63e-4fcf-b4b3-78ef9300f723" />)]
+(assets/<img width="1439" height="868" alt="attribution_tracking_qa" src="https://github.com/user-attachments/assets/50530314-c63e-4fcf-b4b3-78ef9300f723" />)
 
 ## Executive summary
 
