@@ -1,0 +1,30 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Generated data (retain only the small samples explicitly committed)
+data/raw/
+data/generated/
+data/tableau_exports/*.csv
+!data/sample/*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Tableau and editor artifacts
+*.hyper
+*.twbr
+.DS_Store
+.idea/
+.vscode/
+
+# Logs and temporary files
+*.log
+tmp/
