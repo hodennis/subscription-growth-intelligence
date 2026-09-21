@@ -1,0 +1,101 @@
+subscription_id,customer_id,visitor_id,trial_start_ts,paid_start_ts,plan_name,monthly_price_usd,signup_campaign_id,signup_device_category,signup_landing_page,cancel_ts,cancel_reason,source_updated_at
+sub_0015830,cus_0015830,vis_00135897,2026-01-01 07:32:35,2026-01-08 07:32:35,Monthly Basic,24.95,,desktop,/search,2026-03-09 07:32:35,payment_failure,2026-01-02 06:00:00
+sub_0000016,cus_0000016,vis_00000107,2026-01-01 08:17:11,,Monthly Basic,24.95,PS_BRAND,mobile,/search,2026-01-08 08:17:11,trial_canceled,2026-01-02 06:00:00
+sub_0000002,cus_0000002,vis_00000009,2026-01-01 08:29:20,2026-01-08 08:29:20,Monthly Basic,24.95,PS_BRAND,desktop,/search,,,2026-01-02 06:00:00
+sub_0000008,cus_0000008,vis_00000052,2026-01-01 08:40:43,,Monthly Basic,24.95,PS_BRAND,desktop,/search,2026-01-08 08:40:43,trial_canceled,2026-01-02 06:00:00
+sub_0000038,cus_0000038,vis_00000248,2026-01-01 08:42:22,2026-01-08 08:42:22,Monthly Basic,24.95,PS_BRAND,mobile,/search,2026-05-08 08:42:22,payment_failure,2026-01-02 06:00:00
+sub_0015832,cus_0015832,vis_00135910,2026-01-01 08:47:21,,Monthly Basic,24.95,,mobile,/,2026-01-08 08:47:21,trial_canceled,2026-01-02 06:00:00
+sub_0000005,cus_0000005,vis_00000040,2026-01-01 08:56:16,,Monthly Plus,34.95,PS_BRAND,mobile,/search,2026-01-08 08:56:16,payment_failure,2026-01-02 06:00:00
+sub_0015829,cus_0015829,vis_00135890,2026-01-01 09:08:11,2026-01-08 09:08:11,Monthly Plus,34.95,,desktop,/,2026-02-07 09:08:11,voluntary_churn,2026-01-02 06:00:00
+sub_0000017,cus_0000017,vis_00000125,2026-01-01 09:11:52,,Monthly Plus,34.95,PS_BRAND,mobile,/search,2026-01-08 09:11:52,trial_canceled,2026-01-02 06:00:00
+sub_0000021,cus_0000021,vis_00000153,2026-01-01 09:17:20,,Monthly Basic,24.95,PS_BRAND,desktop,/search,2026-01-08 09:17:20,payment_failure,2026-01-02 06:00:00
+sub_0000030,cus_0000030,vis_00000199,2026-01-01 09:26:06,2026-01-08 09:26:06,Monthly Plus,34.95,PS_BRAND,desktop,/search,2026-06-07 09:26:06,voluntary_churn,2026-01-02 06:00:00
+sub_0000037,cus_0000037,vis_00000247,2026-01-01 09:35:23,2026-01-08 09:35:23,Monthly Basic,24.95,PS_BRAND,mobile,/search,,,2026-01-02 06:00:00
+sub_0000003,cus_0000003,vis_00000011,2026-01-01 09:37:26,,Monthly Basic,24.95,PS_BRAND,mobile,/search,2026-01-08 09:37:26,trial_canceled,2026-01-02 06:00:00
+sub_0015831,cus_0015831,vis_00135904,2026-01-01 09:41:33,,Monthly Basic,24.95,,desktop,/,2026-01-08 09:41:33,payment_failure,2026-01-02 06:00:00
+sub_0000012,cus_0000012,vis_00000082,2026-01-01 09:52:18,2026-01-08 09:52:18,Monthly Basic,24.95,PS_BRAND,tablet,/search,2026-04-08 09:52:18,payment_failure,2026-01-02 06:00:00
+sub_0000022,cus_0000022,vis_00000158,2026-01-01 09:59:36,2026-01-08 09:59:36,Monthly Basic,24.95,PS_BRAND,desktop,/search,2026-03-09 09:59:36,voluntary_churn,2026-01-02 06:00:00
+sub_0000050,cus_0000050,vis_00000341,2026-01-01 10:04:10,2026-01-08 10:04:10,Monthly Plus,34.95,PS_GENERIC,desktop,/people-search,2026-03-09 10:04:10,voluntary_churn,2026-01-02 06:00:00
+sub_0000055,cus_0000055,vis_00000357,2026-01-01 10:17:10,,Monthly Basic,24.95,PS_GENERIC,desktop,/people-search,2026-01-08 10:17:10,trial_canceled,2026-01-02 06:00:00
+sub_0000041,cus_0000041,vis_00000265,2026-01-01 10:33:09,2026-01-08 10:33:09,Monthly Basic,24.95,PS_BRAND,tablet,/search,2026-04-08 10:33:09,payment_failure,2026-01-02 06:00:00
+sub_0000076,cus_0000076,vis_00000565,2026-01-01 10:34:02,2026-01-08 10:34:02,Monthly Basic,24.95,PS_COMPETITOR,mobile,/compare,2026-03-09 10:34:02,voluntary_churn,2026-01-02 06:00:00
+sub_0000058,cus_0000058,vis_00000390,2026-01-01 10:34:46,,Monthly Basic,24.95,PS_GENERIC,mobile,/people-search,2026-01-08 10:34:46,trial_canceled,2026-01-02 06:00:00
+sub_0000036,cus_0000036,vis_00000246,2026-01-01 10:45:16,2026-01-08 10:45:16,Monthly Basic,24.95,PS_BRAND,mobile,/search,2026-04-08 10:45:16,voluntary_churn,2026-01-02 06:00:00
+sub_0000073,cus_0000073,vis_00000538,2026-01-01 11:03:29,2026-01-08 11:03:29,Monthly Basic,24.95,PS_COMPETITOR,mobile,/compare,2026-03-09 11:03:29,payment_failure,2026-01-02 06:00:00
+sub_0000064,cus_0000064,vis_00000472,2026-01-01 11:05:17,,Monthly Basic,24.95,PS_GENERIC,mobile,/people-search,2026-01-08 11:05:17,trial_canceled,2026-01-02 06:00:00
+sub_0000024,cus_0000024,vis_00000168,2026-01-01 11:05:33,,Monthly Basic,24.95,PS_BRAND,mobile,/search,2026-01-08 11:05:33,trial_canceled,2026-01-02 06:00:00
+sub_0000049,cus_0000049,vis_00000320,2026-01-01 11:17:26,,Monthly Basic,24.95,PS_GENERIC,mobile,/people-search,2026-01-08 11:17:26,trial_canceled,2026-01-02 06:00:00
+sub_0000019,cus_0000019,vis_00000132,2026-01-01 11:33:39,,Monthly Basic,24.95,PS_BRAND,desktop,/search,2026-01-08 11:33:39,trial_canceled,2026-01-02 06:00:00
+sub_0000066,cus_0000066,vis_00000490,2026-01-01 11:37:50,,Monthly Basic,24.95,PS_GENERIC,mobile,/people-search,2026-01-08 11:37:50,trial_canceled,2026-01-02 06:00:00
+sub_0000053,cus_0000053,vis_00000348,2026-01-01 12:08:57,,Monthly Basic,24.95,PS_GENERIC,mobile,/people-search,2026-01-08 12:08:57,trial_canceled,2026-01-02 06:00:00
+sub_0000063,cus_0000063,vis_00000471,2026-01-01 12:11:40,,Monthly Basic,24.95,PS_GENERIC,mobile,/people-search,2026-01-08 12:11:40,payment_failure,2026-01-02 06:00:00
+sub_0000011,cus_0000011,vis_00000078,2026-01-01 12:12:36,,Monthly Basic,24.95,PS_BRAND,desktop,/search,2026-01-08 12:12:36,trial_canceled,2026-01-02 06:00:00
+sub_0000057,cus_0000057,vis_00000389,2026-01-01 12:33:12,,Monthly Plus,34.95,PS_GENERIC,mobile,/people-search,2026-01-08 12:33:12,trial_canceled,2026-01-02 06:00:00
+sub_0000042,cus_0000042,vis_00000273,2026-01-01 12:39:27,2026-01-08 12:39:27,Monthly Plus,34.95,PS_BRAND,mobile,/search,2026-04-08 12:39:27,payment_failure,2026-01-02 06:00:00
+sub_0000001,cus_0000001,vis_00000001,2026-01-01 12:44:49,,Monthly Plus,34.95,PS_BRAND,mobile,/search,2026-01-08 12:44:49,payment_failure,2026-01-02 06:00:00
+sub_0000059,cus_0000059,vis_00000398,2026-01-01 12:52:11,,Monthly Basic,24.95,PS_GENERIC,desktop,/people-search,2026-01-08 12:52:11,trial_canceled,2026-01-02 06:00:00
+sub_0000075,cus_0000075,vis_00000560,2026-01-01 13:18:10,,Monthly Basic,24.95,PS_COMPETITOR,desktop,/compare,2026-01-08 13:18:10,trial_canceled,2026-01-02 06:00:00
+sub_0000033,cus_0000033,vis_00000237,2026-01-01 13:26:29,2026-01-08 13:26:29,Monthly Basic,24.95,PS_BRAND,desktop,/search,2026-02-07 13:26:29,voluntary_churn,2026-01-02 06:00:00
+sub_0000078,cus_0000078,vis_00000630,2026-01-01 13:27:53,2026-01-08 13:27:53,Monthly Basic,24.95,PAID_SOCIAL,mobile,/discover,2026-04-08 13:27:53,voluntary_churn,2026-01-02 06:00:00
+sub_0000080,cus_0000080,vis_00000644,2026-01-01 13:41:26,,Monthly Basic,24.95,PAID_SOCIAL,mobile,/discover,2026-01-08 13:41:26,trial_canceled,2026-01-02 06:00:00
+sub_0000045,cus_0000045,vis_00000285,2026-01-01 13:45:51,2026-01-08 13:45:51,Monthly Basic,24.95,PS_BRAND,mobile,/search,2026-02-07 13:45:51,payment_failure,2026-01-02 06:00:00
+sub_0000029,cus_0000029,vis_00000197,2026-01-01 13:46:19,,Monthly Basic,24.95,PS_BRAND,mobile,/search,2026-01-08 13:46:19,trial_canceled,2026-01-02 06:00:00
+sub_0000077,cus_0000077,vis_00000605,2026-01-01 13:52:00,,Monthly Basic,24.95,PAID_SOCIAL,mobile,/discover,2026-01-08 13:52:00,trial_canceled,2026-01-02 06:00:00
+sub_0000040,cus_0000040,vis_00000257,2026-01-01 14:26:56,2026-01-08 14:26:56,Monthly Plus,34.95,PS_BRAND,desktop,/search,,,2026-01-02 06:00:00
+sub_0000072,cus_0000072,vis_00000532,2026-01-01 14:50:47,,Monthly Basic,24.95,PS_COMPETITOR,desktop,/compare,2026-01-08 14:50:47,trial_canceled,2026-01-02 06:00:00
+sub_0000018,cus_0000018,vis_00000127,2026-01-01 15:08:34,,Monthly Basic,24.95,PS_BRAND,mobile,/search,2026-01-08 15:08:34,trial_canceled,2026-01-02 06:00:00
+sub_0000081,cus_0000081,vis_00000673,2026-01-01 15:32:02,2026-01-08 15:32:02,Monthly Basic,24.95,PAID_SOCIAL,desktop,/discover,2026-02-07 15:32:02,voluntary_churn,2026-01-02 06:00:00
+sub_0000031,cus_0000031,vis_00000204,2026-01-01 15:34:10,2026-01-08 15:34:10,Monthly Basic,24.95,PS_BRAND,desktop,/search,2026-02-07 15:34:10,voluntary_churn,2026-01-02 06:00:00
+sub_0000067,cus_0000067,vis_00000497,2026-01-01 15:35:15,2026-01-08 15:35:15,Monthly Basic,24.95,PS_GENERIC,desktop,/people-search,2026-07-07 15:35:15,payment_failure,2026-01-02 06:00:00
+sub_0000032,cus_0000032,vis_00000217,2026-01-01 15:40:32,,Monthly Plus,34.95,PS_BRAND,desktop,/search,2026-01-08 15:40:32,trial_canceled,2026-01-02 06:00:00
+sub_0000069,cus_0000069,vis_00000512,2026-01-01 15:56:53,,Monthly Basic,24.95,PS_GENERIC,desktop,/people-search,2026-01-08 15:56:53,trial_canceled,2026-01-02 06:00:00
+sub_0000062,cus_0000062,vis_00000445,2026-01-01 16:03:17,,Monthly Plus,34.95,PS_GENERIC,mobile,/people-search,2026-01-08 16:03:17,trial_canceled,2026-01-02 06:00:00
+sub_0000070,cus_0000070,vis_00000514,2026-01-01 16:18:03,,Monthly Basic,24.95,PS_GENERIC,mobile,/people-search,2026-01-08 16:18:03,trial_canceled,2026-01-02 06:00:00
+sub_0000071,cus_0000071,vis_00000524,2026-01-01 16:30:34,2026-01-08 16:30:34,Monthly Basic,24.95,PS_COMPETITOR,mobile,/compare,2026-02-07 16:30:34,payment_failure,2026-01-02 06:00:00
+sub_0000028,cus_0000028,vis_00000180,2026-01-01 16:56:50,,Monthly Basic,24.95,PS_BRAND,desktop,/search,2026-01-08 16:56:50,trial_canceled,2026-01-02 06:00:00
+sub_0000014,cus_0000014,vis_00000103,2026-01-01 17:01:25,,Monthly Basic,24.95,PS_BRAND,desktop,/search,2026-01-08 17:01:25,trial_canceled,2026-01-02 06:00:00
+sub_0000046,cus_0000046,vis_00000297,2026-01-01 17:06:21,,Monthly Plus,34.95,PS_GENERIC,mobile,/people-search,2026-01-08 17:06:21,trial_canceled,2026-01-02 06:00:00
+sub_0000013,cus_0000013,vis_00000099,2026-01-01 17:12:38,,Monthly Basic,24.95,PS_BRAND,mobile,/search,2026-01-08 17:12:38,payment_failure,2026-01-02 06:00:00
+sub_0000010,cus_0000010,vis_00000075,2026-01-01 17:26:47,2026-01-08 17:26:47,Monthly Plus,34.95,PS_BRAND,desktop,/search,2026-04-08 17:26:47,payment_failure,2026-01-02 06:00:00
+sub_0000043,cus_0000043,vis_00000275,2026-01-01 17:38:09,,Monthly Basic,24.95,PS_BRAND,mobile,/search,2026-01-08 17:38:09,trial_canceled,2026-01-02 06:00:00
+sub_0000060,cus_0000060,vis_00000413,2026-01-01 17:43:16,2026-01-08 17:43:16,Monthly Basic,24.95,PS_GENERIC,mobile,/people-search,2026-06-07 17:43:16,payment_failure,2026-01-02 06:00:00
+sub_0000052,cus_0000052,vis_00000346,2026-01-01 17:46:55,,Monthly Basic,24.95,PS_GENERIC,mobile,/people-search,2026-01-08 17:46:55,trial_canceled,2026-01-02 06:00:00
+sub_0000009,cus_0000009,vis_00000062,2026-01-01 18:20:19,2026-01-08 18:20:19,Monthly Basic,24.95,PS_BRAND,mobile,/search,,,2026-01-02 06:00:00
+sub_0000015,cus_0000015,vis_00000106,2026-01-01 18:42:59,2026-01-08 18:42:59,Monthly Basic,24.95,PS_BRAND,mobile,/search,2026-02-07 18:42:59,voluntary_churn,2026-01-02 06:00:00
+sub_0000047,cus_0000047,vis_00000312,2026-01-01 18:55:42,,Monthly Basic,24.95,PS_GENERIC,mobile,/people-search,2026-01-08 18:55:42,trial_canceled,2026-01-02 06:00:00
+sub_0015828,cus_0015828,vis_00135865,2026-01-01 19:00:36,,Monthly Basic,24.95,,tablet,/search,2026-01-08 19:00:36,trial_canceled,2026-01-02 06:00:00
+sub_0000025,cus_0000025,vis_00000170,2026-01-01 19:14:06,2026-01-08 19:14:06,Monthly Basic,24.95,PS_BRAND,desktop,/search,2026-07-07 19:14:06,voluntary_churn,2026-01-02 06:00:00
+sub_0000068,cus_0000068,vis_00000503,2026-01-01 19:15:43,,Monthly Basic,24.95,PS_GENERIC,mobile,/people-search,2026-01-08 19:15:43,trial_canceled,2026-01-02 06:00:00
+sub_0000035,cus_0000035,vis_00000243,2026-01-01 19:42:26,,Monthly Basic,24.95,PS_BRAND,desktop,/search,2026-01-08 19:42:26,trial_canceled,2026-01-02 06:00:00
+sub_0000023,cus_0000023,vis_00000162,2026-01-01 20:21:27,2026-01-08 20:21:27,Monthly Plus,34.95,PS_BRAND,mobile,/search,,,2026-01-02 06:00:00
+sub_0000079,cus_0000079,vis_00000637,2026-01-01 20:42:02,,Monthly Basic,24.95,PAID_SOCIAL,desktop,/discover,2026-01-08 20:42:02,trial_canceled,2026-01-02 06:00:00
+sub_0000051,cus_0000051,vis_00000345,2026-01-01 20:44:33,,Monthly Plus,34.95,PS_GENERIC,mobile,/people-search,2026-01-08 20:44:33,payment_failure,2026-01-02 06:00:00
+sub_0000048,cus_0000048,vis_00000314,2026-01-01 20:46:55,2026-01-08 20:46:55,Monthly Basic,24.95,PS_GENERIC,mobile,/people-search,2026-03-09 20:46:55,payment_failure,2026-01-02 06:00:00
+sub_0000074,cus_0000074,vis_00000539,2026-01-01 20:57:23,,Monthly Basic,24.95,PS_COMPETITOR,desktop,/compare,2026-01-08 20:57:23,trial_canceled,2026-01-02 06:00:00
+sub_0000007,cus_0000007,vis_00000044,2026-01-01 21:00:15,,Monthly Plus,34.95,PS_BRAND,desktop,/search,2026-01-08 21:00:15,payment_failure,2026-01-02 06:00:00
+sub_0000004,cus_0000004,vis_00000018,2026-01-01 21:00:51,2026-01-08 21:00:51,Monthly Basic,24.95,PS_BRAND,mobile,/search,2026-02-07 21:00:51,payment_failure,2026-01-02 06:00:00
+sub_0000065,cus_0000065,vis_00000478,2026-01-01 21:22:32,,Monthly Basic,24.95,PS_GENERIC,mobile,/people-search,2026-01-08 21:22:32,trial_canceled,2026-01-02 06:00:00
+sub_0000054,cus_0000054,vis_00000349,2026-01-01 21:30:37,2026-01-08 21:30:37,Monthly Basic,24.95,PS_GENERIC,mobile,/people-search,2026-02-07 21:30:37,payment_failure,2026-01-02 06:00:00
+sub_0000027,cus_0000027,vis_00000177,2026-01-01 21:37:58,,Monthly Plus,34.95,PS_BRAND,mobile,/search,2026-01-08 21:37:58,trial_canceled,2026-01-02 06:00:00
+sub_0000056,cus_0000056,vis_00000366,2026-01-01 22:25:50,,Monthly Basic,24.95,PS_GENERIC,desktop,/people-search,2026-01-08 22:25:50,payment_failure,2026-01-02 06:00:00
+sub_0000006,cus_0000006,vis_00000041,2026-01-01 22:27:00,2026-01-08 22:27:00,Monthly Basic,24.95,PS_BRAND,desktop,/search,2026-02-07 22:27:00,voluntary_churn,2026-01-02 06:00:00
+sub_0000020,cus_0000020,vis_00000140,2026-01-01 22:38:20,,Monthly Basic,24.95,PS_BRAND,mobile,/search,2026-01-08 22:38:20,payment_failure,2026-01-02 06:00:00
+sub_0000061,cus_0000061,vis_00000430,2026-01-01 22:41:22,,Monthly Basic,24.95,PS_GENERIC,mobile,/people-search,2026-01-08 22:41:22,trial_canceled,2026-01-02 06:00:00
+sub_0000044,cus_0000044,vis_00000276,2026-01-01 22:43:27,,Monthly Plus,34.95,PS_BRAND,mobile,/search,2026-01-08 22:43:27,trial_canceled,2026-01-02 06:00:00
+sub_0015833,cus_0015833,vis_00135937,2026-01-01 22:43:49,2026-01-08 22:43:49,Monthly Plus,34.95,,tablet,/,2026-02-07 22:43:49,voluntary_churn,2026-01-02 06:00:00
+sub_0000026,cus_0000026,vis_00000175,2026-01-01 23:17:31,2026-01-08 23:17:31,Monthly Basic,24.95,PS_BRAND,mobile,/search,2026-06-07 23:17:31,voluntary_churn,2026-01-02 06:00:00
+sub_0000034,cus_0000034,vis_00000241,2026-01-01 23:17:33,,Monthly Basic,24.95,PS_BRAND,mobile,/search,2026-01-08 23:17:33,trial_canceled,2026-01-02 06:00:00
+sub_0000039,cus_0000039,vis_00000253,2026-01-01 23:31:15,2026-01-08 23:31:15,Monthly Basic,24.95,PS_BRAND,mobile,/search,,,2026-01-02 06:00:00
+sub_0000138,cus_0000138,vis_00001278,2026-01-02 07:21:55,,Monthly Basic,24.95,PS_COMPETITOR,mobile,/compare,2026-01-09 07:21:55,trial_canceled,2026-01-03 06:00:00
+sub_0000108,cus_0000108,vis_00000925,2026-01-02 08:00:50,2026-01-09 08:00:50,Monthly Basic,24.95,PS_BRAND,desktop,/search,2026-07-08 08:00:50,voluntary_churn,2026-01-03 06:00:00
+sub_0000132,cus_0000132,vis_00001224,2026-01-02 08:06:59,2026-01-09 08:06:59,Monthly Basic,24.95,PS_GENERIC,mobile,/people-search,2026-05-09 08:06:59,payment_failure,2026-01-03 06:00:00
+sub_0000110,cus_0000110,vis_00000930,2026-01-02 08:19:08,2026-01-09 08:19:08,Monthly Basic,24.95,PS_BRAND,desktop,/search,2026-05-09 08:19:08,voluntary_churn,2026-01-03 06:00:00
+sub_0000128,cus_0000128,vis_00001177,2026-01-02 08:28:32,,Monthly Plus,34.95,PS_GENERIC,mobile,/people-search,2026-01-09 08:28:32,payment_failure,2026-01-03 06:00:00
+sub_0000137,cus_0000137,vis_00001273,2026-01-02 08:30:48,,Monthly Basic,24.95,PS_COMPETITOR,mobile,/compare,2026-01-09 08:30:48,trial_canceled,2026-01-03 06:00:00
+sub_0000133,cus_0000133,vis_00001225,2026-01-02 08:33:35,,Monthly Basic,24.95,PS_GENERIC,desktop,/people-search,2026-01-09 08:33:35,trial_canceled,2026-01-03 06:00:00
+sub_0000086,cus_0000086,vis_00000743,2026-01-02 08:42:43,,Monthly Basic,24.95,PS_BRAND,mobile,/search,2026-01-09 08:42:43,trial_canceled,2026-01-03 06:00:00
+sub_0000140,cus_0000140,vis_00001314,2026-01-02 08:44:41,,Monthly Basic,24.95,PAID_SOCIAL,mobile,/discover,2026-01-09 08:44:41,payment_failure,2026-01-03 06:00:00
+sub_0000127,cus_0000127,vis_00001153,2026-01-02 09:00:14,,Monthly Plus,34.95,PS_GENERIC,mobile,/people-search,2026-01-09 09:00:14,trial_canceled,2026-01-03 06:00:00
+sub_0000130,cus_0000130,vis_00001194,2026-01-02 09:03:43,,Monthly Plus,34.95,PS_GENERIC,desktop,/people-search,2026-01-09 09:03:43,trial_canceled,2026-01-03 06:00:00
+sub_0000104,cus_0000104,vis_00000906,2026-01-02 09:06:23,2026-01-09 09:06:23,Monthly Plus,34.95,PS_BRAND,desktop,/search,2026-07-08 09:06:23,payment_failure,2026-01-03 06:00:00
+sub_0000096,cus_0000096,vis_00000842,2026-01-02 09:09:35,2026-01-09 09:09:35,Monthly Plus,34.95,PS_BRAND,tablet,/search,,,2026-01-03 06:00:00
